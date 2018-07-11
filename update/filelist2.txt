@@ -377,10 +377,8 @@ texture/ui/raw/toggleNormal.png	3225c82553a0d47a032cd5e4ddf3b50a
 texture/ui/raw/verticleLine.png	9e7fbf64d4d6012eb5c7f9741bd200b4
 texture/ui/raw/Window_Background.png	5d5cb2b1e32be51883c303232536549a
 texture/ui/raw/Window_Header.png	3245b4621c0eb75f22962da80169d70c
-update/filelist2.txt	46b372b2097c6375058b8cd45f804117
 update/update-without-sound.bat	22d7b973d79ef9311213aeff61d93d7c
-update/update.exe.config	4a1e06c7d6aa66eeec461b39f41d2dc0
-update/version2.txt	767a3b9819cee8a6723ba61cc976c3df
+update/update.exe.config	e7d25742d662d2c42a8b04a5cea7a126
 x64/SQLite.Interop.dll	18eb7ce57df55b15e139770bf1a6bfee
 x86/SQLite.Interop.dll	18eb7ce57df55b15e139770bf1a6bfee
 ygopro2_linux_Data/mainData	cd7d56102fe0f6f1b2e1249e37815d7a
