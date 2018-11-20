@@ -1,0 +1,140 @@
+Initialize engine version: 5.1.3f1 (b0a23b31c3d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     3032 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.ComponentModel.DataAnnotations.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.ComponentModel.DataAnnotations.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Configuration.Install.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Configuration.Install.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Configuration.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Configuration.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Core.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Core.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Data.DataSetExtensions.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Data.DataSetExtensions.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Data.Linq.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Data.Linq.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Data.OracleClient.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Data.OracleClient.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Data.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Data.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Design.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Design.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.DirectoryServices.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.DirectoryServices.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Drawing.Design.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Drawing.Design.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Drawing.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Drawing.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.EnterpriseServices.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.EnterpriseServices.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.IdentityModel.Selectors.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.IdentityModel.Selectors.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.IdentityModel.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.IdentityModel.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Management.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Management.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Messaging.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Messaging.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Runtime.Remoting.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Runtime.Remoting.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Runtime.Serialization.Formatters.Soap.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Runtime.Serialization.Formatters.Soap.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Runtime.Serialization.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Security.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Security.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.ServiceModel.Web.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.ServiceModel.Web.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.ServiceModel.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.ServiceModel.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.ServiceProcess.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.ServiceProcess.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Servicemodel.Faltexception.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Servicemodel.Faltexception.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Transactions.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Transactions.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Web.Abstractions.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Web.Abstractions.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Web.DynamicData.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Web.DynamicData.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Web.Extensions.Design.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Web.Extensions.Design.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Web.Extensions.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Web.Extensions.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Web.Mvc.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Web.Mvc.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Web.Routing.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Web.Routing.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Web.Services.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Web.Services.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Web.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Web.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Xml.Linq.dll into Unity Child Domain
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Xml.dll (this message is harmless)
+Loading D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.Xml.dll into Unity Child Domain
+- Completed reload, in  0.199 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 144Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\Boo.Lang.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2e0c -> priority: 1 
+  Thread -> id: 1894 -> priority: 1 
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 9811.
+Total: 9.460155 ms (FindLiveObjects: 0.546370 ms CreateObjectMapping: 0.761679 ms MarkObjects: 8.117338 ms  DeleteObjects: 0.032000 ms)
+
+Platform assembly: D:\ygopro2_July_2018\YGOPro2_Data\Managed\Mono.Security.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+System.Net.WebException: The remote server returned an error: (500) Internal Server Error.
+  at System.Net.HttpWebRequest.CheckFinalStatus (System.Net.WebAsyncResult result) [0x00000] in <filename unknown>:0 
+  at System.Net.HttpWebRequest.SetResponseData (System.Net.WebConnectionData data) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Fallback handler could not load library D:/ygopro2_July_2018/YGOPro2_Data/Mono/libc
+Fallback handler could not load library D:/ygopro2_July_2018/YGOPro2_Data/Mono/.\libc
+Fallback handler could not load library D:/ygopro2_July_2018/YGOPro2_Data/Mono/libc
